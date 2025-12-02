@@ -33,8 +33,8 @@ This makes it ideal for students, educators, and developers wanting to learn fin
 - **Deployable as a web chat, CLI chat, or WhatsApp bot**
 
 ## 📁 Project Structure
-## 📁 Project Structure
 
+```
 SQLearn/
 │
 ├── data/
@@ -71,7 +71,7 @@ SQLearn/
 ├── README.md                        # Main project documentation
 └── LICENSE                          # License (MIT recommended)
 
-
+```
 ## 📚 Skills Covered
 This project helps you learn:
 - LLM fine-tuning with LoRA/QLoRA
